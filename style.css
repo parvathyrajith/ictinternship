@@ -1,0 +1,35 @@
+h1{
+    color:rgb(255, 0, 179);
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(121, 26, 74);
+    border: 2px;
+    border-color: rgb(136, 135, 222) dashed;
+    border-style: dashed;
+    border-radius: 19px;}
+table,th,td{
+    border: 2px rgb(22, 17, 17) solid;
+ }
+img{
+    border: 2px rgb(12, 8, 8) solid;
+    margin: 40px 40px;
+    }
+
+#head{
+    color: rgb(255, 0, 179);
+    text-decoration: solid;
+    border: 3px rgb(136, 135, 222) dashed;
+    margin: 40px 80px;
+}
+.part1{
+    background-color: brown;
+    text-align: justify;
+    margin: 40px 80px 30px 20px;
+    padding: 10px;
+   
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHEjosg10cl8ebFN8fM6P7VqPNyoCYcCamyw&s");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
